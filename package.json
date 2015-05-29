@@ -1,0 +1,22 @@
+{
+  "name": "hello-world-express-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atplanet/hello-world-express-app.git"
+  },
+  "author": "Tom Bamford",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/atplanet/hello-world-express-app/issues"
+  },
+  "homepage": "https://atplanet.co/posts/ec2-auto-scaling-with-ansible",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
